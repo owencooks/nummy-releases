@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Nummy</title>
+    <item>
+      <title>Nummy 1.0</title>
+      <pubDate>Wed, 14 Oct 2026 15:31:47 +0000</pubDate>
+      <sparkle:version>1.0</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The first release of Nummy, a little menu bar app that answers one question: do you actually use your numpad? Open the DMG and drag Nummy into Applications. From now on, updates install themselves.</p>]]></description>
+      <enclosure url="https://github.com/owencooks/nummy-releases/releases/download/v1.0/Nummy.dmg" type="application/octet-stream" sparkle:edSignature="MFnR7SqOhAvKM9332EFD2VRUXO4/rgDBtXOrHSmtm/tWQ+TOyEu+TtiNGhP5AWgVRtaPwyqFcNshh+DGRTpSBg==" length="4211848"/>
+    </item>
+  </channel>
+</rss>
