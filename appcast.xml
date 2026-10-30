@@ -3,13 +3,13 @@
   <channel>
     <title>Nummy</title>
     <item>
-      <title>Nummy 1.0</title>
-      <pubDate>Wed, 14 Oct 2026 15:31:47 +0000</pubDate>
-      <sparkle:version>1.0</sparkle:version>
-      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <title>Nummy 1.1</title>
+      <pubDate>Fri, 30 Oct 2026 14:40:30 +0000</pubDate>
+      <sparkle:version>1.1</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>The first release of Nummy, a little menu bar app that answers one question: do you actually use your numpad? Open the DMG and drag Nummy into Applications. From now on, updates install themselves.</p>]]></description>
-      <enclosure url="https://github.com/owencooks/nummy-releases/releases/download/v1.0/Nummy.dmg" type="application/octet-stream" sparkle:edSignature="MFnR7SqOhAvKM9332EFD2VRUXO4/rgDBtXOrHSmtm/tWQ+TOyEu+TtiNGhP5AWgVRtaPwyqFcNshh+DGRTpSBg==" length="4211848"/>
+      <description><![CDATA[<p>Hover over or click a day in the 14-day chart to see which keys you pressed that day. See how many of the last 30 days you reached for the numpad. Also new: a welcome guide for first launch, today's count now resets at midnight, and ties for favorite key no longer flicker.</p>]]></description>
+      <enclosure url="https://github.com/owencooks/nummy-releases/releases/download/v1.1/Nummy.dmg" type="application/octet-stream" sparkle:edSignature="nYv1XkGHPWcHATTxHVAVO2rVWgOmb4cpz3clCwejjZ+VozeGLpuDf3x8I0rZ4/IW+5Wd0ObcOKPC0DAHNVFSCA==" length="4241884"/>
     </item>
   </channel>
 </rss>
