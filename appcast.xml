@@ -3,13 +3,13 @@
   <channel>
     <title>Nummy</title>
     <item>
-      <title>Nummy 1.1</title>
-      <pubDate>Fri, 30 Oct 2026 14:40:30 +0000</pubDate>
-      <sparkle:version>1.1</sparkle:version>
-      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <title>Nummy 1.2</title>
+      <pubDate>Wed, 04 Nov 2026 19:17:32 +0000</pubDate>
+      <sparkle:version>1.2</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Hover over or click a day in the 14-day chart to see which keys you pressed that day. See how many of the last 30 days you reached for the numpad. Also new: a welcome guide for first launch, today's count now resets at midnight, and ties for favorite key no longer flicker.</p>]]></description>
-      <enclosure url="https://github.com/owencooks/nummy-releases/releases/download/v1.1/Nummy.dmg" type="application/octet-stream" sparkle:edSignature="nYv1XkGHPWcHATTxHVAVO2rVWgOmb4cpz3clCwejjZ+VozeGLpuDf3x8I0rZ4/IW+5Wd0ObcOKPC0DAHNVFSCA==" length="4241884"/>
+      <description><![CDATA[<p>New in 1.2: sync your stats across Macs with iCloud, a new Settings window, export and import your stats, and remove keyboards you no longer use. Your stats carry over, but this update changes how macOS identifies Nummy, so you'll need to allow Input Monitoring and turn on Open at Login once more. The welcome sheet walks you through both.</p>]]></description>
+      <enclosure url="https://github.com/owencooks/nummy-releases/releases/download/v1.2/Nummy.dmg" type="application/octet-stream" sparkle:edSignature="S1EoWFHTLjBwt7aLrxK62oR1akz1hzl99hSOQtycuL55K7yf+lMQgc1zRJka5wX0TZEHRYiue/qZEnrKnh+OAw==" length="4304227"/>
     </item>
   </channel>
 </rss>
